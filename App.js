@@ -12,7 +12,7 @@ export default function App() {
     "Tempo chato em família é tempo bem gasto.",
     "Tempo em família é tempo.",
     "Você fará um novo amigo hoje.",
-    "Você vai fazer sexo com a sua mãe.",
+    "Você vai fazer sexo com a sua mãe.", //referência a Rick and Morty
   ];
 
   const [frase, setFrase] = useState("");
